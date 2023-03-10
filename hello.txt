@@ -1,7 +1,7 @@
 hellw
 hoe r u
-<<<<<<< HEAD
+
 jhkhjkhjkgfhfghfg
-=======
+
 khjkhjk
->>>>>>> feature
+
